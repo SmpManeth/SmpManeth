@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SmpManeth
-- 👀 I’m interested in Xamarin Apps & Web Development
+- 👀 I’m interested in Web Development & Xamarin Apps
 - 📫 You can reach me on smpmaneth@gmail.com
 
