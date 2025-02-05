@@ -1,14 +1,16 @@
 <img src="https://static.wixstatic.com/media/456e21_7d2e873852a54d37943be3df62f1aa07~mv2.gif" width="1500" height="300" alt="Logo">
 
 ![SmpManeth's Stats](https://github-readme-stats.vercel.app/api?username=SmpManeth&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmpManeth)](https://github.com/SmpManeth/github-readme-stats)
 - 👋 Hi, I’m @SmpManeth
 - 👀 In Love with Laravel & React 💻
 - 📫 You can reach me on smpmaneth@gmail.com
 - ⚡ Fun fact **I am not funny**
 
 ![SmpManeth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmpManeth&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
