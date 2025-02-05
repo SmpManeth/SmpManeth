@@ -4,7 +4,7 @@
 
 ![SmpManeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmpManeth&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SmpManeth)](https://github.com/SmpManeth/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=11759084-17bc-4bda-a3aa-6b3235478010)](https://github.com/SmpManeth/github-readme-stats)
 <br>
 - 👋 Hi, I’m @SmpManeth
 - 👀 In Love with Laravel & React 💻
