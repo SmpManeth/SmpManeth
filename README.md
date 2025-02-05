@@ -2,7 +2,7 @@
 
 ![SmpManeth's Stats](https://github-readme-stats.vercel.app/api?username=SmpManeth&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <br>
-![SmpManeth's Stats](https://github-readme-streak-stats.herokuapp.com/?user=SSmpManeth&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @SmpManeth
 - 👀 In Love with Laravel & React 💻
 - 📫 You can reach me on smpmaneth@gmail.com
