@@ -2,7 +2,9 @@
 
 ![SmpManeth's Stats](https://github-readme-stats.vercel.app/api?username=SmpManeth&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmpManeth&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![SmpManeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmpManeth&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 - 👋 Hi, I’m @SmpManeth
 - 👀 In Love with Laravel & React 💻
