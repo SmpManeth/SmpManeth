@@ -2,7 +2,7 @@
 
 ![SmpManeth's Stats](https://github-readme-stats.vercel.app/api?username=SmpManeth&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <br>
 - 👋 Hi, I’m @SmpManeth
 - 👀 In Love with Laravel & React 💻
