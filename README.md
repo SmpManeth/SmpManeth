@@ -7,7 +7,6 @@
 - 📫 You can reach me on smpmaneth@gmail.com
 - ⚡ Fun fact **I am not funny**
 
-![SmpManeth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SmpManeth&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 <h3 align="left">Connect with me:</h3>
