@@ -1,8 +1,6 @@
 <img src="https://static.wixstatic.com/media/456e21_7d2e873852a54d37943be3df62f1aa07~mv2.gif" width="1500" height="300" alt="Logo">
 
 
-![SmpManeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmpManeth&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 <br>
 - 👋 Hi, I’m @SmpManeth
 - 👀 In Love with Laravel & React 💻
